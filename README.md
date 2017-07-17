@@ -18,3 +18,4 @@
 * * *
 ### Delete the list item by just hovering over it and clicking on the delete button
 ![screenshot3](images/delete.png)
+* * *
